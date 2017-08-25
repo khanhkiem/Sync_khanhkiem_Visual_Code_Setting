@@ -6,7 +6,8 @@ Install this superb extension to your Visual Studio Code
 - Settings Sync: *https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync*
 
 # Download setting
-1. Go to setting sync, scroll down, find and follow his "Download your setting" instruction.
+1. Go to setting sync, scroll down, find and follow his "Download your setting" instruction, using my *Gist ID: c52c1c8bc3a67c165fa630782b61e114*
+.
 1. You may encounter merge conflict in setting.js, I strongly recommend you concat 2 setting.js file (or discard the one that contain only "sync setting").
 1. Reload visual code to install synced extension.
 
