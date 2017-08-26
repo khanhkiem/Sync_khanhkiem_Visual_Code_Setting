@@ -9,11 +9,16 @@ This is a tutorial to sync my visual code setting to your visual code
     - sudo apt-get install clang -> check if clang version is 3.8
 1. Python only:  
     1. Install cuda driver (current version is 384.69):
-        - Download: *http://www.nvidia.com/Download/index.aspx?lang=en-us*
-        - Install: *https://askubuntu.com/questions/149206/how-to-install-nvidia-run*
+        - Run sudo add-apt-repository ppa:graphics-drivers/ppa
+        - sudo apt-get update.
+        - sudo apt-get install nvidia-375.
     1. Install Anaconda Distribution: *https://www.continuum.io/downloads*
-    1. Install cudaToolkit: 
+    1. Install CUDA Toolkit 8.0:
         - conda install cudatoolkit
+    1. Install cuDNN 6:
+        - conda install cudnn
+    1. Install TensorFlow, follow "Installing with Anaconda" section only: *https://www.tensorflow.org/install/install_linux*
+
 # Download setting
 **CAUTION** You must pay attention to my guide, especially **step 2**
 1. Go to setting sync, scroll down, find and follow his "Download your setting" instruction, using my *Gist ID: c52c1c8bc3a67c165fa630782b61e114*.
