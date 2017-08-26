@@ -7,6 +7,7 @@ This is a tutorial to sync my visual code setting to your visual code
 1. Install clang 3.8
     - sudo apt-get install clang -> install clang
     - sudo apt-get install clang -> check if clang version is 3.8
+1. Python only: install Anaconda Distribution: *https://www.continuum.io/downloads*
 
 # Download setting
 1. Go to setting sync, scroll down, find and follow his "Download your setting" instruction, using my *Gist ID: c52c1c8bc3a67c165fa630782b61e114*.
