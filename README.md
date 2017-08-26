@@ -10,6 +10,7 @@ This is a tutorial to sync my visual code setting to your visual code
 1. Python only: install Anaconda Distribution: *https://www.continuum.io/downloads*
 
 # Download setting
+**CAUTION** You must pay attention to my guide, especially **step 2**
 1. Go to setting sync, scroll down, find and follow his "Download your setting" instruction, using my *Gist ID: c52c1c8bc3a67c165fa630782b61e114*.
 1. You may encounter merge conflict in setting.js, I strongly recommend you concat 2 setting.js file (or discard the one that contain only "sync setting").
 1. Reload visual code to install synced extension.
