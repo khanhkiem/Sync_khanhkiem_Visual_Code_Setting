@@ -8,7 +8,7 @@ This is a tutorial to sync my visual code setting to your visual code
     - sudo apt-get install clang -> install clang
     - sudo apt-get install clang -> check if clang version is 3.8
 1. Python only:  
-    1. Install cuda driver (current version is 384.69):
+    1. Install cuda driver (current version is 384.69, but 375 is good enough):
         - Run sudo add-apt-repository ppa:graphics-drivers/ppa
         - sudo apt-get update.
         - sudo apt-get install nvidia-375.
