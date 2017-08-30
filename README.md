@@ -12,6 +12,7 @@ Install this superb extension to your Visual Studio Code for syncing
 1. Reload visual code to install synced extension.
 
 # Sync system setting
+**CAUTION** You should sync visual code setting again, everytime you sync my new system setting, to ensure that you don't miss any new visual code setting that related to system setting.
 You may encounter some system requirement for these extension (system library, dependency, etc..). This session will guide you to install them
 
 ## C++
@@ -19,13 +20,19 @@ You may encounter some system requirement for these extension (system library, d
     - sudo apt-get install clang -> install clang
     - sudo apt-get install clang -> check if clang version is 3.8
 
+## Arduino
+- Install Arduino IDE: *https://www.arduino.cc/en/Guide/Linux*
+- Open Visual code
+- Ctrl + , to access your user setting
+- Edit "arduino.path" field    
+    - Ex: "arduino.path": "/home/khanh/Downloads/arduino-1.8.4"
+
 
 ## Python
 - Install Anaconda Distribution: *https://www.continuum.io/downloads*
 - Install TensorFlow, Deep learning library, follow "Installing with Anaconda" section only: *https://www.tensorflow.org/install/install_linux*
 - Instal framework Django for back-end development:
     - conda install -c anaconda django 
-
 
 ## NVIDIA    
 - Install cuda driver 375 (or newer) if you have NVIDIA GPU, so Ubuntu can use your GPU:
