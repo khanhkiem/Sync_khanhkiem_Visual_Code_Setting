@@ -23,13 +23,19 @@ You may encounter some system requirement for these extension (system library, d
     > sudo apt-get install clang  
 
 ## Arduino
-- Install Arduino IDE:  
+- Install Arduino IDE, read this guide carefully, especially the last section:  
     > https://www.arduino.cc/en/Guide/Linux
 - Open Visual code
 - Ctrl + , to access your user setting
 - Edit "arduino.path" field, for example:
     > "arduino.path": "/home/khanh/Downloads/arduino-1.8.4"
-
+- Connect your Arduino Board, for example:
+    > Arduino Uno
+- Press F1 search for Arduino: Select Serial Port
+- Make sure /dev/ttyACM0 does appears, choose it. If not, reconnect your Board until it appears
+- Press F1 search for Arduino: Change Board Type
+- Select Arduino Uno
+- Code then press F1 search for Arduino: Upload or Ctrl + Alt + U
 
 ## Python
 - Install Anaconda Distribution:
