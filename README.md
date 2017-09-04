@@ -16,9 +16,10 @@ Install this superb extension to your Visual Studio Code for syncing
 You may encounter some system requirement for these extension (system library, dependency, etc..). This session will guide you to install them
 
 ## C++
-- Install clang 3.8
-    - sudo apt-get install clang -> install clang
-    - sudo apt-get install clang -> check if clang version is 3.8
+- Install clang 3.8  
+    > sudo apt-get install clang  
+- Check if clang version is 3.8  
+    > sudo apt-get install clang  
 
 ## Arduino
 - Install Arduino IDE: *https://www.arduino.cc/en/Guide/Linux*
