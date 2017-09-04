@@ -53,5 +53,7 @@ You may encounter some system requirement for these extension (system library, d
 - Check my commit on Github to track my change
 
 # Contact
-*Facebook: https://www.facebook.com/khanhkiem1211*  
-*Email: nguyencaominhkhanh@gmail.com*
+- Facebook:  
+    > https://www.facebook.com/khanhkiem1211
+- Email:  
+    > nguyencaominhkhanh@gmail.com*
