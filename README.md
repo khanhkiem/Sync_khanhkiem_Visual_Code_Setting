@@ -37,13 +37,13 @@ You may encounter some system requirement for these extension (system library, d
 
 ## NVIDIA    
 - Install cuda driver 375 (or newer) if you have NVIDIA GPU, so Ubuntu can use your GPU:
-    - Run sudo add-apt-repository ppa:graphics-drivers/ppa
-    - sudo apt-get update.
-    - sudo apt-get install nvidia-375.
+    > sudo add-apt-repository ppa:graphics-drivers/ppa  
+    > sudo apt-get update.  
+    > sudo apt-get install nvidia-375.
 - Install CUDA Toolkit 8.0 for CUDA programming:
-    - conda install cudatoolkit
+    > conda install cudatoolkit
 - Install cuDNN 6 for Deep learning:
-    - conda install cudnn
+    > conda install cudnn
 
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
