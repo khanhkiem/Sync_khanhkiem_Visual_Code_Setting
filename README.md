@@ -25,15 +25,15 @@ You may encounter some system requirement for these extension (system library, d
 - Install Arduino IDE: *https://www.arduino.cc/en/Guide/Linux*
 - Open Visual code
 - Ctrl + , to access your user setting
-- Edit "arduino.path" field    
-    - Ex: "arduino.path": "/home/khanh/Downloads/arduino-1.8.4"
+- Edit "arduino.path" field, for example:
+    > "arduino.path": "/home/khanh/Downloads/arduino-1.8.4"
 
 
 ## Python
-- Install Anaconda Distribution: *https://www.continuum.io/downloads*
-- Install TensorFlow, Deep learning library, follow "Installing with Anaconda" section only: *https://www.tensorflow.org/install/install_linux*
-- Instal framework Django for back-end development:
-    - conda install -c anaconda django 
+- Install Anaconda Distribution:
+    > https://www.continuum.io/downloads
+- Install TensorFlow, Deep learning library, follow "Installing with Anaconda" section only:
+    > https://www.tensorflow.org/install/install_linux*
 
 ## NVIDIA    
 - Install cuda driver 375 (or newer) if you have NVIDIA GPU, so Ubuntu can use your GPU:
