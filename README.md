@@ -53,10 +53,9 @@ You may encounter some system requirement for these extension (system library, d
 - Install cuDNN 6 for Deep learning:
     > conda install cudnn
 
-## Node.js
-- Here is source code I conclude after read this https://github.com/nodesource/distributions
-    > curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
-    > sudo apt-get install -y nodejs
+## Node.js and npm
+- Follow their instruction
+    >  https://docs.npmjs.com/getting-started/installing-node
 
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
