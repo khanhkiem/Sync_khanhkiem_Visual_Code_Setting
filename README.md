@@ -53,6 +53,11 @@ You may encounter some system requirement for these extension (system library, d
 - Install cuDNN 6 for Deep learning:
     > conda install cudnn
 
+## Node.js
+- Here is source code I conclude after read this https://github.com/nodesource/distributions
+    > curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+    > sudo apt-get install -y nodejs
+
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
     > *chmod +x ~/.vscode/extensions/Shan.code-settings-sync-2.8.2/node_modules/opn/xdg-open*
