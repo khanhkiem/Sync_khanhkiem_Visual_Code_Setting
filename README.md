@@ -16,6 +16,12 @@ Install Settings Sync extension to your Visual Studio Code for syncing:
 **CAUTION** You should sync visual code setting again, everytime you sync my new system setting, to ensure that you don't miss any new visual code setting that related to system setting.
 You may encounter some system requirement for these extension (system library, dependency, etc..). This session will guide you to install them
 
+## Shell
+- Install go 1.9:
+    > https://golang.org/dl/
+- Install shfmt:
+    > go get -u mvdan.cc/sh/cmd/shfmt
+
 ## C++
 - Install clang 3.8  
     > sudo apt-get install clang  
