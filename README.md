@@ -64,7 +64,7 @@ You may encounter some system requirement for these extension (system library, d
     >  https://docs.npmjs.com/getting-started/installing-node
 
 ## Ubuntu customization
-- GTK theme: delorean-dark-theme
+- GTK theme: Ark-dark
 - Google chrome theme: deluminate
 - Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
 - Desktop: Unity tweak tool
