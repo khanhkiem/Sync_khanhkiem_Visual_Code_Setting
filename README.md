@@ -63,6 +63,11 @@ You may encounter some system requirement for these extension (system library, d
 - Follow their instruction
     >  https://docs.npmjs.com/getting-started/installing-node
 
+## Ubuntu customization
+- GTK theme: delorean-dark-theme
+- Google chrome theme: deluminate
+- Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
+
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
     > *chmod +x ~/.vscode/extensions/Shan.code-settings-sync-2.8.2/node_modules/opn/xdg-open*
