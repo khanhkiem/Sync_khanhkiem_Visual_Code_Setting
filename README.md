@@ -67,6 +67,7 @@ You may encounter some system requirement for these extension (system library, d
 - GTK theme: delorean-dark-theme
 - Google chrome theme: deluminate
 - Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
+- Desktop: Unity tweak tool
 
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
