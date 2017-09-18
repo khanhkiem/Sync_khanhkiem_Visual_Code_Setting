@@ -1,5 +1,5 @@
-- GTK theme: Ark-dark
-- Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
+# Background
+1. Download [this](https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ)
 
 # Google chrome
 1. Account nguyencaominhkhanh@gmail.com
