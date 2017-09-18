@@ -47,7 +47,7 @@ You may encounter some system requirement for these extension (system library, d
 - Install Anaconda Distribution:
     > https://www.continuum.io/downloads
 - Install TensorFlow, Deep learning library, follow "Installing with Anaconda" section only:
-    > https://www.tensorflow.org/install/install_linux*
+    > https://www.tensorflow.org/install/install_linux
 
 ## NVIDIA    
 - Install cuda driver 375 (or newer) if you have NVIDIA GPU, so Ubuntu can use your GPU:
