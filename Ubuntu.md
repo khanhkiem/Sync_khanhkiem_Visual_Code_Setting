@@ -1,4 +1,0 @@
-- GTK theme: Ark-dark
-- Google chrome theme: deluminate
-- Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
-- Desktop: Unity tweak tool
