@@ -1,14 +1,19 @@
 - GTK theme: Ark-dark
-- Google chrome theme: deluminate
 - Background: https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ
-- Desktop: Unity tweak tool
+
+# Google chrome
+1. Account nguyencaominhkhanh@gmail.com
 
 # Unity Tweak Tool
 1. Install following [this](http://ask.xmodulo.com/install-unity-tweak-tool-ubuntu-desktop.html):
     > sudo apt-get install unity-tweak-tool
-1. Open program
-1. Select Window Manager -> Window Snapping
+1. Download this [Ark theme](http://www.omgubuntu.co.uk/2016/06/install-latest-arc-gtk-theme-ubuntu-16-04):
+    > sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/Horst3180/xUbuntu_16.04/ /' >> /etc/apt/sources.list.d/arc-theme.list"
+    > sudo apt-get update && sudo apt-get install arc-theme
+1. Open Unity Tweak Tool
+1. Select Overview -> Window Manager -> Window Snapping
 1. Config for yourself
+1. Select Overview -> Apeearence -> Theme -> Ark-dark
 
 # Unikey
 1. Install unikey, using this [tutorial](https://nguyenhuuhoang.com/huong-dan-cai-bo-go-tieng-viet-tren-ubuntu-16-04-lts-ibus-unikey/):
