@@ -63,6 +63,9 @@ You may encounter some system requirement for these extension (system library, d
 - Follow their instruction
     >  https://docs.npmjs.com/getting-started/installing-node
 
+## ReactJS
+- Read [this](https://github.com/mars/create-react-app-buildpack)
+
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
     > *chmod +x ~/.vscode/extensions/Shan.code-settings-sync-2.8.2/node_modules/opn/xdg-open*
