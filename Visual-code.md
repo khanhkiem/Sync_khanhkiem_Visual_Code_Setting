@@ -64,7 +64,7 @@ You may encounter some system requirement for these extension (system library, d
     >  https://docs.npmjs.com/getting-started/installing-node
 
 ## ReactJS
-- Read [this](https://github.com/mars/create-react-app-buildpack)
+- Read [this](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 
 # Bug fixing
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
