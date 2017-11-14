@@ -6,10 +6,14 @@
 
 # Unity Tweak Tool
 1. Install following [this](http://ask.xmodulo.com/install-unity-tweak-tool-ubuntu-desktop.html):
-    > sudo apt-get install unity-tweak-tool
+    ```shell
+    sudo apt-get install unity-tweak-tool
+    ```
 1. Download this [Ark theme](http://www.omgubuntu.co.uk/2016/06/install-latest-arc-gtk-theme-ubuntu-16-04):
-    > sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/Horst3180/xUbuntu_16.04/ /' >> /etc/apt/sources.list.d/arc-theme.list"
-    > sudo apt-get update && sudo apt-get install arc-theme
+    ```shell
+    sudo sh -c "echo 'deb http://download.opensuse.org/repositories/home:/Horst3180/xUbuntu_16.04/ /' >> /etc/apt/sources.list.d/arc-theme.list"
+    sudo apt-get update && sudo apt-get install arc-theme
+    ```
 1. Open Unity Tweak Tool
 1. Select Overview -> Window Manager -> Window Snapping
 1. Config for yourself
@@ -17,12 +21,18 @@
 
 # Unikey
 1. Install unikey, using this [tutorial](https://nguyenhuuhoang.com/huong-dan-cai-bo-go-tieng-viet-tren-ubuntu-16-04-lts-ibus-unikey/):
-    > sudo apt-get install ibus-unikey
+    ```shell
+    sudo apt-get install ibus-unikey
+    ```
 
 # Github 
 1. Install Git
-    > sudo apt-get install git  
+    ```shell
+    sudo apt-get install git  
+    ```
 1. Create SSH key following this [tutorial](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 1. Git config:
-    > git config --global user.email buidoigiauco@gmail.com  
-    > git config --global user.name khanhkiem
+    ```shell
+    git config --global user.email buidoigiauco@gmail.com  
+    git config --global user.name khanhkiem
+    ```
