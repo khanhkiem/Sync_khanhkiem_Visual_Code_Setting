@@ -38,5 +38,10 @@
     ```
 
 # Postgres
+```shell
 sudo apt-get install postgresql pgadmin3
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+sudo -u postgres createuser --interactive
+createdb khanhcao
+psql
+\password khanhcao 
+```
