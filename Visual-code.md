@@ -70,6 +70,14 @@ You may encounter some system requirement for these extension (system library, d
 - Sync Update (Ctrl + Alt + U) not working, open terminal and copy paste this command:
     > *chmod +x ~/.vscode/extensions/Shan.code-settings-sync-2.8.2/node_modules/opn/xdg-open*
 
+# Latex
+- Read [this](https://www.tug.org/texlive/quickinstall.html)
+    ```shell
+    sudo perl -MCPAN -e 'install "File::HomeDir"'
+    sudo perl -MCPAN -e 'install "Unicode::GCString"'
+    ```
+
+
 # Change log
 - Check my commit on Github to track my change
 
