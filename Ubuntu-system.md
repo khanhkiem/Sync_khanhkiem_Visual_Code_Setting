@@ -45,3 +45,13 @@ createdb khanhcao
 psql
 \password khanhcao 
 ```
+
+# Bluetooth off on startup
+```shell
+sudo gedit /etc/rc.local
+```
+
+Add this line before exit 0
+```shell
+rfkill block bluetooth
+```
