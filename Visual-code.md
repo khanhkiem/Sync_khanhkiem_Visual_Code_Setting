@@ -72,6 +72,7 @@ You may encounter some system requirement for these extension (system library, d
 
 # Latex
 - Read [this](https://www.tug.org/texlive/quickinstall.html)
+- Install to ~/ dir
 - Fix bug formatter
     ```shell
     sudo perl -MCPAN -e 'install "File::HomeDir"'
