@@ -49,16 +49,6 @@ You may encounter some system requirement for these extension (system library, d
 - Install TensorFlow, Deep learning library, follow "Installing with Anaconda" section only:
     > https://www.tensorflow.org/install/install_linux
 
-## NVIDIA    
-- Install cuda driver 375 (or newer) if you have NVIDIA GPU, so Ubuntu can use your GPU:
-    > sudo add-apt-repository ppa:graphics-drivers/ppa  
-    > sudo apt-get update
-    > sudo apt-get install nvidia-375
-- Install CUDA Toolkit 8.0 for CUDA programming:
-    > conda install cudatoolkit
-- Install cuDNN 6 for Deep learning:
-    > conda install cudnn
-
 ## Node.js and npm
 - Follow their instruction
     >  https://docs.npmjs.com/getting-started/installing-node

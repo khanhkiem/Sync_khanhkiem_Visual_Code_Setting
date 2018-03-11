@@ -23,6 +23,7 @@
 1. Install unikey, using this [tutorial](https://nguyenhuuhoang.com/huong-dan-cai-bo-go-tieng-viet-tren-ubuntu-16-04-lts-ibus-unikey/):
     ```shell
     sudo apt-get install ibus-unikey
+    ibus restart
     ```
 
 # Github 
@@ -55,3 +56,24 @@ Add this line before exit 0
 ```shell
 rfkill block bluetooth
 ```
+
+## NVIDIA    
+- Download nvidia driver, cudatoolkit, cudnn from nvidia homepage
+- Ctrl + Alt + F1
+- cd to driver.run dir
+    ```shell
+    sudo service lightdm stop
+    sudo init 3
+    sudo ./driver.run --no-opengl-files
+    ```
+- cd to cudatoolkit.deb dir
+    '''shell
+    sudo dpkg -i ./cuda-repo-..
+    sudo apt-key add /var/cuda-repo.../7fa2af80.pub
+    sudo apt-get update
+    sudo apt-get install cuda-toolkit-...
+    '''
+- cd to libcudnn.deb dir
+    '''shell
+    sudo dpkg -i ./libcudnn-...
+    '''
