@@ -1,3 +1,6 @@
+# Log in as root
+http://www.configserverfirewall.com/ubuntu-linux/enable-ubuntu-desktop-root-login/
+
 # Background
 1. Download [this](https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ)
 
