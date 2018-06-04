@@ -4,6 +4,14 @@ http://www.configserverfirewall.com/ubuntu-linux/enable-ubuntu-desktop-root-logi
 # Background
 1. Download [this](https://drive.google.com/open?id=0B0GZEBA9RrHnRVZESXVwVXNtNTQ)
 
+# Java
+1. Download [JDK]{http://www.oracle.com/technetwork/java/javase/downloads/index.html}
+1. add to .bashrc
+    ```shell
+    export JAVA_HOME=/root/App/jdk
+    export PATH=$JAVA_HOME/bin:$PATH
+    ```
+
 # Google chrome
 1. Account nguyencaominhkhanh@gmail.com
 
